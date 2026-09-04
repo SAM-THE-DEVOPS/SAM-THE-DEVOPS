@@ -17,7 +17,6 @@ Computer Science student (B.Tech, graduating 2027) focused on building reliable 
 <p>
   <a href="https://github.com/SAM-THE-DEVOPS"><img src="https://img.shields.io/badge/GitHub-SAM--THE--DEVOPS-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=d946ef" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sampath-vishwakarma-3b73903a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&amp;logo=linkedin&amp;logoColor=7c3aed" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d0d0d?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=22d3ee" alt="Portfolio" /></a>
   <a href="mailto:sampathpammi88@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d0d0d?style=for-the-badge&amp;logo=gmail&amp;logoColor=d946ef" alt="Email" /></a>
 </p>
 

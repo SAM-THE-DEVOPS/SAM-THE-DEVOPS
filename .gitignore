@@ -1,0 +1,49 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials.json
+*.tfvars
+
+# --- Terraform / Ansible state (secrets-adjacent) ---
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.retry
+
+# --- Jupyter / AI experimentation ---
+.ipynb_checkpoints/
+mlruns/
+*.log
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Caches / generated ---
+.cache/
+*.tmp
+node_modules/
+dist/
